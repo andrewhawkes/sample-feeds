@@ -1,24 +1,12 @@
 {
     "product": [
         {
-            "title": "Printed T-Shirt",
-            "sku": "SHIRT-101",
-            "price": "15",
+            "sku": "TFA-001",
             "stock": "500",
-            "length": "10",
-            "width": "25",
-            "height": "32",
-            "weight": "500"
         },
         {
-            "title": "Plain T-Shirt",
-            "sku": "SHIRT-102",
-            "price": "19",
-            "unlimitedStock": "1",
-            "length": "9",
-            "width": "28",
-            "height": "30",
-            "weight": "480"
+            "sku": "PSB-001",
+            "stock": "500",
         }
     ]
 }
