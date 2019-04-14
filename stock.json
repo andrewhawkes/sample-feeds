@@ -3,11 +3,11 @@
     "product": [
         {
             "sku": "TFA-001",
-            "stock": "500",
+            "stock": "500"
         },
         {
             "sku": "PSB-001",
-            "stock": "500",
+            "stock": "500"
         }
     ]
 }
