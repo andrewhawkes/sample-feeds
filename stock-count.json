@@ -2,15 +2,15 @@
     "product": [
         {
             "sku": "TFA-001",
-            "stock": "1080"
+            "stock": "80"
         },
         {
             "sku": "PSB-001",
-            "stock": "2560"
+            "stock": "175"
         },
         {
             "sku": "RRE-001",
-            "stock": "1600"
+            "stock": "2806"
         }
     ]
 }
